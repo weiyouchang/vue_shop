@@ -6,20 +6,16 @@
 打开git bush输入以下命令/n
 git clone https://github.com/weiyouchang/project_01.git/n
 将项目下载到本地
-## Project setup
-```下载依赖
+## 安装依赖
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```启动项目
+### 启动项目
+```打赏
 npm run serve
 ```
 
-### Compiles and minifies for production
-```打包发布
+### 打包发布
+```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
