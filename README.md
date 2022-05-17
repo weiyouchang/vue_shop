@@ -3,7 +3,7 @@
 ##
 技术栈：前端：vue2 、vue-router、element_ui、vue/cli、axios
 ##
-可以拿来当作练手的项目，欢迎star
+可以拿来当作练手的项目，项目持续更新，欢迎star！
 ##
 打开git bush输入以下命令/n
 ```
