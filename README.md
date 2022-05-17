@@ -7,7 +7,7 @@
 ##
 打开git bush输入以下命令，将项目下载到本地
 ```
-git clone https://github.com/weiyouchang/project_01.git
+git clone https://github.com/weiyouchang/vue_shop.git
 ```
 
 ### 安装依赖
