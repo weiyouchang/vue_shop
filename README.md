@@ -8,7 +8,7 @@
 打开git bush输入以下命令/n
 git clone https://github.com/weiyouchang/project_01.git/n
 将项目下载到本地
-## 安装依赖
+### 安装依赖
 ```
 npm install
 
